@@ -1,8 +1,10 @@
 # varm-digiarch
-Hompage für den Stammtisch "Digitale Archäologie" des VARM
+Hompage für den Stammtisch "Digitale Archäologie" des VARM.
+
+Kontakt: [Aline Deicke](Aline.Deicke@adwmainz.de), [Akademie der Wissenschaften und der Literatur | Mainz](http://www.adwmainz.de/startseite.html)
 
 ##Termine
-| Wann  | Wo | Was |
+| Wann  | Wo | Impulsvortrag |
 | ------------- | ------------- |------------- |
-| **23.01.2017**| Frankfurt IG Farben Haus (voraussichtlich)| Agent Based Modeling in der Archäologie
+| **30.01.2017**| Frankfurt IG Farben Haus (voraussichtlich)| Agent Based Modeling in der Archäologie
 | **01.03.2017**| TBA  | TBA |
