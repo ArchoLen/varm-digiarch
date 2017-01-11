@@ -1,5 +1,5 @@
 # varm-digiarch
-Hompage für den Stammtisch "Digitale Archäologie" des VARM.
+Informationen zum Stammtisch "Digitale Archäologie" des VARM.
 
 Kontakt: [Aline Deicke](Aline.Deicke@adwmainz.de), [Akademie der Wissenschaften und der Literatur | Mainz](http://www.adwmainz.de/startseite.html)
 
