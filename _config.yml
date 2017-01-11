@@ -1,2 +1,3 @@
+## config file für Jeckyll Theme
 theme: jekyll-theme-midnight
-markdown: kramdown
+## markdown: kramdown
