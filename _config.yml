@@ -1,3 +1,4 @@
 ## config file für Jeckyll Theme
+name: VRAM. Digitale Archäologie
 theme: jekyll-theme-midnight
-## markdown: kramdown
+markdown: kramdown
