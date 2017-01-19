@@ -1,4 +1,5 @@
 ---
+title: Stammtisch Digitale Archäologie des VARM
 ---
 
 # varm-digiarch
