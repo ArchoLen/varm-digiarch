@@ -1,3 +1,6 @@
+---
+---
+
 # varm-digiarch
 Informationen zum Stammtisch "Digitale Archäologie" des VARM.
 ## Kontakt
