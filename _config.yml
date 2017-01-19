@@ -1,5 +1,4 @@
 ## config file für Jeckyll Theme
 name: VRAM. Digitale Archäologie
 theme: jekyll-theme-midnight
-title: Stammtisch "Digitale Archäologie" des VARM
 markdown: kramdown
