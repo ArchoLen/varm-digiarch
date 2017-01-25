@@ -7,5 +7,5 @@ Informationen zum Stammtisch "Digitale Archäologie" des VARM.
 ## Termine
 | Wann  | Wo | Impulsvortrag |
 | ------------- | ------------- |------------- |
-| **30.01.2017**| Frankfurt IG Farben Haus (voraussichtlich)| Agent Based Modeling in der Archäologie
+| **30.01.2017 18.00**| Frankfurt IG Farben Haus Raum 6.501| Agent Based Modeling in der Archäologie
 | **01.03.2017**| TBA  | TBA |
