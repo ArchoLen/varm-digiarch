@@ -5,6 +5,7 @@ Informationen zum Stammtisch "Digitale Archäologie" des VARM.
 * [Lennart Linde](mailto:l.linde@em.uni-frankfurt.de), [Goethe Univesität | Frankfurt](https://www.uni-frankfurt.de/61359221/Lennart-Linde)
 
 ## Termine
+
 | Wann | Wo | Impulsvortrag |
 | --- | --- | --- |
 | **30.01.2017 18.00** | Frankfurt IG Farben Haus Raum 6.501| Agent Based Modeling in der Archäologie |
