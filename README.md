@@ -11,3 +11,4 @@ Informationen zum Stammtisch "Digitale Archäologie" des VARM.
 | **30.01.2017 18.00** | Frankfurt IG Farben Haus Raum 6.501| Agent Based Modeling in der Archäologie |
 | **03.04.2017**| [Weinhaus Michel](https://www.michel-wein.de/) | Organisatorisches (Themenfindung, etc.) |
 | **05.05.2017 19.00**| Vor- und Frühgeschichtliche Archäologie, Schönborner Hof, Schillerstraße 11, Mainz | Netzwerkanalyse in der Archäologie und Geschichte |
+| **19.06.2017 19.00**| Frankfurt IG Farben Haus Raum 6.501| Rchäologie - Software R in der Archäologie |
