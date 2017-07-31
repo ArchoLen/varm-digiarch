@@ -1,4 +1,4 @@
-# Rchäologie - R als werkzeugkasten für die Archäologie
+# Rchäologie - R als Werkzeugkasten für die Archäologie
 Eine kurze Linkliste mit Einführungen und weiterführenden Informationen zum Einsatz von R in der Archäologie
 
 ## Einführungen und Tutorials
