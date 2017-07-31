@@ -4,13 +4,13 @@ Eine kurze Linkliste mit Einführungen und weiterführenden Informationen zum Ei
 ## Einführungen und Tutorials
 
 * [swirl - Learn R in R](http://swirlstats.com/)
-Interaktiver R Kurs welcher direkt in R läuft. 
+Interaktiver R Kurs, welcher direkt in R läuft. 
 * [Einführung in R für Geisteswissenschaftler](https://github.com/eScienceCenter/R-Tutorial_20170707)
 Folien & Scripte zum R Workshop im Rahmen der CAA 2016 von Dirk Seidensticker und Clemens Schmid.
 * [Basic Statistical Graphics for Archaeology with R: Life Beyond Excel](http://www.barbicanra.co.uk/assets/basic-statistical-graphics.pdf)
 Umfassende Einführung in archäologische Statistik mit R.
 * [The Rcandies](https://www.youtube.com/user/TheRcandies)
-Kurze deutschsprachige Videos zur Einführung in R. erklärt die grundlegensten Funktionen.
+Kurze deutschsprachige Videos zur Einführung in R mit Erklärung der grundlegensten Funktionen.
 * [R Bloggers](https://www.r-bloggers.com/)
 Meta Blog welches (fast) sämtliche Blogposts zu R sammelt. 
 
@@ -21,13 +21,13 @@ Kurze Übersichten aller relevanten Funktionen und Argumente aus Base R und ausg
 
 ## Anwendung in der Archäologie
 * [CRAN Task View Archaeology](https://github.com/benmarwick/ctv-archaeology)
-Umfangreiches Verzeichnis von R Paketen für archäologische Anwendungen. Hinzu kommt eine Bibliographie von archäologischen Publikationen mit R Code bzw. Scripten.
+Umfangreiches Verzeichnis von R Paketen für archäologische Anwendungen sowie eine Bibliographie archäologischer Publikationen mit R Code bzw. Scripten.
 * [ISSAKiel **I**nitiative for *S*tatistical *A*nalysis in *A*rchaeology Kiel](https://isaakiel.github.io/)
-Betreut und Entwickelt verschiednene Pakete zur Anwendung in der Archäologie.
+Betreut und entwickelt verschiedene Pakete zur Anwendung in der Archäologie.
 * [R is for Archaeology](http://blog.revolutionanalytics.com/2017/04/r-is-for-archaeology.html)
-Englischsprachiger Beitrag zum Thema: "Warum R?".
+Englischsprachiger Beitrag zum Thema: "Warum R in der Archäologie?".
 * [Doing Qunatitative Archaeology with Open Source Software](https://www.r-bloggers.com/doing-quantitative-archaeology-with-open-source-software/)
-Plädoyer für den Einsatz offner Software in der Archäologie.
+Plädoyer für den Einsatz offener Software in der Archäologie.
 
 ## Tutorials zu bestimmten Anwendungsbereichen
 
@@ -37,7 +37,7 @@ Blog zu archäologischer Statistik mit Anwendungsbeispielen. Zumeist R.
 
 ### GIS&Spatial
 * [CRAN Task View: Spatial Data](https://cran.r-project.org/web/views/Spatial.html)
-Task View mit Paketen für für Spatial Data.
+Task View mit Paketen für Spatial Data.
 * [R Spatial](http://r-spatial.org/)
 Blog rund um GIS in R.
 
